@@ -1,0 +1,4 @@
+#Tue Jun 01 10:55:04 ICT 2021
+base.0=/Users/congtrinh/Desktop/Test/smart_house_remote/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
