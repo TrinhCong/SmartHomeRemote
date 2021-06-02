@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/congtrinh/Desktop/Test/smart_house_remote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "outputFile": "/Users/congtrinh/Desktop/Test/SmartHomeRemote/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "/Users/congtrinh/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/values-ru/values-ru.xml",

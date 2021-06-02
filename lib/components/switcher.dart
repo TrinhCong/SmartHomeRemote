@@ -46,6 +46,7 @@ class _SwitcherState extends State<Switcher> with TickerProviderStateMixin {
           _changing = true;
       });
     _value = widget.value;
+    if (_value) _controller.forward();
   }
 
   @override
